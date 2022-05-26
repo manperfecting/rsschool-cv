@@ -1,14 +1,18 @@
-## **CV of Rs-school student**
+# **CV OF RS-SCHOOL STUDENT**
 Арипов Шахриёр
 
-## **Законченные курсы:**
+# **Законченные курсы:**
     + Udacity
-    + Sololearn
-### **Теоретические знания:**
+    + Sololearn\
+
+
+# **Теоретические знания:**
     + Python 
     + SQL
-    + JS
-### **Сертификаты:**
+    + JS\
+
+
+# **Сертификаты:**
     ![Image](https://www.sololearn.com/certificates/course/en/20246046/1161/landscape/png)
 
     ![Image](https://www.sololearn.com/certificates/course/en/20246046/1159/landscape/png)
