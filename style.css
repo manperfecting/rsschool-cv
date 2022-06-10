@@ -13,7 +13,7 @@ html {
     border-radius: 20%;
 }
 
-.header {
+.nav {
     display: flex;
     justify-content: space-between;
     text-align: right;
@@ -23,7 +23,7 @@ html {
     margin: 0px;
 }
 
-.header-list {
+.nav-list {
     list-style: none;
 }
 
@@ -125,7 +125,15 @@ footer {
     display: flex;
     background-color: #4B5D67;
     Align-items:center;
-    justify-content: center;
+    justify-content: space-around;
     font-size: 15px;
     color: white;
+}
+
+.Code {
+    background-color: aliceblue;
+}
+
+.Education td {
+    margin-right: 100px;
 }
